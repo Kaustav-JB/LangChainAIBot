@@ -1,6 +1,6 @@
 # 💬 Brainlox Course Chatbot using LangChain + DeepSeek API
 
-This project is a custom chatbot that uses **LangChain** and **DeepSeek AI** to answer user queries based on data extracted from the [Brainlox Technical Courses](https://brainlox.com/courses/category/technical) page.
+This project is a custom chatbot that uses **LangChain** and **DeepSeek AI** to answer user queries based on data extracted from the Brainlox Technical Courses page.
 
 It features:
 - 🌐 Web scraping for content loading
